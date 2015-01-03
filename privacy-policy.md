@@ -8,9 +8,8 @@ We do not sell or rent your data. As with most web applications, there is a risk
 
 We share the following with third parties:
 
-**Email address** is shared with Strip for billing receipts.
-
-*If you opt in to our newsletter,* you **email address** and **preferred name** are shared with MailChimp.
+- **Email address** is shared with Stripe for billing receipts.
+- *If you opt in to our newsletter,* you **email address** and **preferred name** are shared with MailChimp.
 
 
 ### Employee visible ###
@@ -31,7 +30,7 @@ Buckets employees can only view the following information *with your explicit pe
 
 ### Employee invisible ###
 
-By policy, Buckets employees may not view the following information:
+By policy, Buckets employees may not view the following information unless you send it directly to an employee:
 
 - **bucket balances**
 - **bucket names**
