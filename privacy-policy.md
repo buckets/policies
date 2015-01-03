@@ -2,28 +2,45 @@
 
 We do not sell or rent your data. As with most web applications, there is a risk that data stored on our servers could be stolen or improperly used. We do our best to prevent and mitigate theft through our various security practices and policies.
 
-## Here is the data we collect and what we do with it ##
+## Data we collect and what we do with it ##
 
-### Email address ###
+### Shared data ###
 
-- We will send you email regarding your account.
-- We give your email address to Stripe for credit card processing.
+We share the following with third parties:
 
-### Bank account information ###
+**Email address** is shared with Strip for billing receipts.
 
-- We do not collect bank account credentials.
-- As a policy, Buckets employees do not view your bank account balances or names or the amounts, dates or payees of transaction data.
-- Buckets employees may view the number of accounts and transactions.
-- With your explicit permission, employees may view the raw data contained within uploaded files to debug problems. By default, employees do not have permission.
-- This information is not shared with any third parties.
+*If you opt in to our newsletter,* you **email address** and **preferred name** are shared with MailChimp.
 
-### Bucket information ###
 
-- As a policy, Buckets employees do not view your bucket balances, goals or any historical data.
-- Buckets employees may view the number of buckets and transactions.
-- This information is not shared with any third parties.
+### Employee visible ###
 
-### Usage data ###
+Buckets employees can readily view the following information:
 
-- Buckets employees may view usage data such as how frequently you sign in.
-- This information is not shared with any third parties.
+- **email address**
+- **preferred name**
+- **number of accounts**
+- **number of buckets**
+- **number of transactions**
+- **how often you sign in**
+
+Buckets employees can only view the following information *with your explicit permission*:
+
+- **uploaded files**
+
+
+### Employee invisible ###
+
+By policy, Buckets employees may not view the following information:
+
+- **bucket balances**
+- **bucket names**
+- **goals**
+- **account balances**
+- **transaction amounts**
+- **transaction descriptions**
+- **transaction payees**
+
+### Data we don't collect ###
+
+We do not collect **bank account credentials** (such as **bank account number**, **security questions**, **bank account PIN**, **bank account password**).
