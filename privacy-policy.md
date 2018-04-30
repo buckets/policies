@@ -1,29 +1,28 @@
 # Privacy policy #
 
-We do not sell or rent your data. As with most web applications, there is a risk that data stored on our servers could be stolen or improperly used. We do our best to prevent and mitigate theft through our various security practices and policies.
+We do not sell or rent your data.  And we don't collect much data in the first place.
 
 ## Here is the data we collect and what we do with it ##
 
 ### Email address ###
 
-- We will send you email regarding your account.
-- We give your email address to Stripe for credit card processing.
+How we get your email address:
 
-### Bank account information ###
+- You email us :)
+- You file a bug and include your email address.
+- You sign up for our newsletter.
+- You purchase a license.
 
-- We do not collect bank account credentials.
-- As a policy, Buckets employees do not view your bank account balances or names or the amounts, dates or payees of transaction data.
-- Buckets employees may view the number of accounts and transactions.
-- With your explicit permission, employees may view the raw data contained within uploaded files to debug problems. By default, employees do not have permission.
-- This information is not shared with any third parties.
+How we use your email address:
 
-### Bucket information ###
-
-- As a policy, Buckets employees do not view your bucket balances, goals or any historical data.
-- Buckets employees may view the number of buckets and transactions.
-- This information is not shared with any third parties.
+- We reply to your emails.
+- We email you newsletters if you sign up for them.  You may unsubscribe at any time.
+- We email you a license when you purchase one.
+- We give your email address to [Stripe](https://www.stripe.com) for credit card processing and to email you a receipt.
 
 ### Usage data ###
 
-- Buckets employees may view usage data such as how frequently you sign in.
-- This information is not shared with any third parties.
+Regarding your use of Buckets, we only collect/analyze anonymous totals of the following:
+
+- Number of application downloads
+- Number of times an update has been checked for

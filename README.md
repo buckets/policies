@@ -1,1 +1,1 @@
-This repository contains the privacy policy and terms of use for Buckets (https://www.bucketsisbetter.com)
+This repository contains the privacy policy and terms of use for Buckets (https://www.budgetwithbuckets.com)
