@@ -1,6 +1,6 @@
 # Privacy policy #
 
-We do not sell or rent your data.  And we don't collect much data in the first place.
+We do not sell or rent your data.  And we don't collect much data in the first place.  All financial/budgeting data is in your budget file on your computer.  You have control of it and we don't have access to it.
 
 ## Here is the data we collect and what we do with it ##
 
