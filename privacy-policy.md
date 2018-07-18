@@ -18,7 +18,7 @@ How we use your email address:
 - We reply to your emails.
 - If you sign up for newsletters, we give your email address [MailChimp](https://mailchimp.com/) and we email you newsletters. You may unsubscribe at any time.
 - We email you a license when you purchase one.
-- We give your email address to [Stripe](https://www.stripe.com) or [PayPal]((https://www.paypal.com/) (you choose which one) for credit card processing and to email you a receipt.
+- We give your email address to [Stripe](https://www.stripe.com) or [PayPal](https://www.paypal.com/) (you choose which one) for credit card processing and to email you a receipt.
 
 ### Usage data ###
 
