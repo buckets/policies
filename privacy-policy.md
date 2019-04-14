@@ -8,27 +8,27 @@ This privacy policy (the "**Privacy Policy**") applies to Buckets software appli
 
 We do not collect any "**Personal Information**" such as your email, name, phone number or mailing address, from you when you download and use the App **unless** you provide us with such information voluntarily.  In the course of operating the App, you authorize us to collect and/or receive a minimal amount of information from you as follows: 
 
-- _Initial Download of the App._  Upon downloading a Trial Version of the App, there is NO information we receive or collect from you!
-- _Full Version of the App._  Once you decide to purchase the Full Version of the App, you will be asked to voluntarily provide your email address.  To submit payment, you will also be required to provide us with "**Payment Information**" such as your credit card information or if using Paypal then additional information is required, such as your email address, name and mailing address.
+- **Initial Download of the App.**  Upon downloading a Trial Version of the App, there is NO information we receive or collect from you!
+- **Full Version of the App.**  Once you decide to purchase the Full Version of the App, you will be asked to voluntarily provide your email address.  To submit payment, you will also be required to provide us with "**Payment Information**" such as your credit card information or if using Paypal then additional information is required, such as your email address, name and mailing address.
   This Payment Information will be collected and processed by our third-party payment vendors pursuant to the terms and conditions of their privacy policies and terms of use.  We do not obtain access to any of your payment information in connection with such purchases or subscriptions.
-- _User Contacts Us._  If you need assistance with the App and you voluntarily contact us, we may require you to submit your name, email address, and a physical address. We only receive or collect information that identifies you personally if you choose to provide such personally identifiable information to us via email or other means. 
-- _Third-party Log In._  The App does not allow you to sign in or access the App through any third-party application.
-    a. _Third-Party Analytics._  We and the third-party technology providers with which we work use third-party analytics services (e.g., Google Analytics) to evaluate your purchase and download of the App, compile reports on activity, collect demographic data, analyze performance metrics, and collect and evaluate other information relating to the App. These third parties use cookies and other technologies to help analyze and provide us the data. You consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy.
-    b. _Other Information._ We may automatically collect or receive additional information regarding you and your use of the App; your interactions with us and our advertising; and information regarding your computer and mobile devices used to access the App (collectively, the "**Other Information**").
+- **User Contacts Us.**  If you need assistance with the App and you voluntarily contact us, we may require you to submit your name, email address, and a physical address. We only receive or collect information that identifies you personally if you choose to provide such personally identifiable information to us via email or other means. 
+- **Third-party Log In.**  The App does not allow you to sign in or access the App through any third-party application.
+    1. **Third-Party Analytics.**  We and the third-party technology providers with which we work use third-party analytics services (e.g., Google Analytics) to evaluate your purchase and download of the App, compile reports on activity, collect demographic data, analyze performance metrics, and collect and evaluate other information relating to the App. These third parties use cookies and other technologies to help analyze and provide us the data. You consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy.
+    2. **Other Information.** We may automatically collect or receive additional information regarding you and your use of the App; your interactions with us and our advertising; and information regarding your computer and mobile devices used to access the App (collectively, the "**Other Information**").
 
 ## How Information is Used and Shared
 
 You authorize us to use the Personal Information, Payment Information, and the Other Information (collectively, the "**Information**") to:
 
-i. provide and improve our App;
-ii. provide our services;
-iii. solicit your feedback; and
-iv. inform you about our products and services.
+1. provide and improve our App;
+2. provide our services;
+3. solicit your feedback; and
+4. inform you about our products and services.
 
 We engage third-party companies and individuals to perform functions on our behalf. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.  As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.  To the extent permitted by law, we may also disclose the Information:
 
-i.  when required by law, court order, or other government or law enforcement authority or regulatory agency; or
-ii.  whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of us or others, including you.
+1.  when required by law, court order, or other government or law enforcement authority or regulatory agency; or
+2.  whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of us or others, including you.
 
 ## Accessing and Modifying Information and Communication Preferences
 
